@@ -2,6 +2,6 @@ Git Course
 
 Aula de Git e Github para iniciante.
 
-Feijão é bom!
+Curso Gratuito na Udemy!
 
 Alterações para commitar
